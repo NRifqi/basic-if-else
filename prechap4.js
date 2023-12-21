@@ -44,7 +44,7 @@
 
 // if (treasure > 1000000000) {
 //     alert("crazy rich")
-// } else if (treasure >= 100000000 && treasure <= 200000000) {
+// } else if (treasure >= 100000000 && treasure <= 1000000000) {
 //     alert("that's good")
 // } else {
 //     alert("so poor")
