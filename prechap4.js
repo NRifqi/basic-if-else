@@ -49,3 +49,12 @@
 // } else {
 //     alert("so poor")
 // }
+
+// let firstName = "Nur"
+// let lastName  = "rifqi"
+
+// console.log(`halo nama saya ${firstName} ${lastName}`)
+
+// let data = "Halo nama saya adit saya sedang belajar javascript"
+
+// console.log(data.replaceAll("saya", "aku"))
